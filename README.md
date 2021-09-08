@@ -2,6 +2,14 @@
 
 Template Project for starting up CRUD API with Django Rest Framework
 
+## Summry
+This project to practice how to deploy the app in heroku and how to set the envirument variable.
+
+
+
+
+
+
 ## Customization Steps
 
 - DO NOT migrate yet
